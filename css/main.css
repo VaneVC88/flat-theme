@@ -25,7 +25,7 @@
 
 .bgr-azul img{
 	width: 70%;
-	margin-top: 5px;
+	/*margin-top: 5px;*/
 }
 
 .nav-tabs{
@@ -37,14 +37,206 @@
 .nav-tabs li{
 	margin-left: 250px;
 	margin-right: -255px;	
-	margin-top: 15px;
+	/*margin-top: 15px;*/
 }
 
 .nav-tabs a{
 	color: #a9a9a9;
 }
 /*Header fin*/
+/*section about us*/
+.are{
+background-color:#f5f5f5; 
+}
 
+.are p{
+	color: #b7bec5;
+}
+
+
+.progress-bar-success{
+	background-color: red;
+}
+
+.progress-bar-info{
+	background-color: green;
+}
+
+.progress-bar-warning{
+	background-color: blue;
+}
+
+.progress-bar-danger{
+	background-color: cyan;
+}
+
+.php{
+	background-color: yellow;
+}
+
+
+.fa{
+	color:blue;
+	border-radius: 1px;
+	margin-left:45px;
+	margin-right: -35px;
+	text-align: center;
+	padding-top: 10px;
+	margin-bottom: 20px;	
+}
+
+.titulo{
+	text-align: center;
+}
+
+.subtitulo{
+	text-align: center;
+}
+
+.nombre{
+	font-size: 20px;
+	text-align: center;
+}
+
+.cargo{
+	font-size: 14px;
+	text-align: center;
+}
+
+.descripcion{
+	font-size: 10px;
+	text-align: center;
+}
+
+.foto{
+	color: black;
+}
+
+.member{
+	border:3px solid white;
+	width: 30%;
+	height: 30%;
+	margin-left: 120px;
+}
+
+.f {
+	width: 40px;
+	height: 40px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background-color: #4f7dd4;
+	color: white;
+	bottom: 80px;
+}
+
+.g {
+	width: 40px;
+	height: 40px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background-color: #dc422b;
+	color: white;
+}
+
+.t {
+	width: 40px;
+	height: 40px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background-color: #5bceff;
+	color: white;
+}
+
+.l {
+	width: 40px;
+	height: 40px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background-color: #25a8d9;
+	color: white;
+}
+
+.verde{
+	background-color:#2ecc71;
+	min-height: 100px;
+	margin-top: -20px;
+}
+
+
+.transp{
+	background-color: transparent;
+	float: right;
+}
+
+.name{
+	
+	margin-top: 40px;
+	right: 140px;
+
+}
+
+.name a {
+	text-decoration: none;
+	color:white;
+}
+
+.ca{
+	color: black;
+	font-size: 24px;
+}
+
+.ce{
+font-size: 16px;
+}
+
+
+.botonn{
+	padding-bottom: 5px;
+}
+
+.tipo{
+	width: 100%;
+	margin-top: 40px;
+}
+
+.enviar{
+	margin-top: 40px;
+	position: relative;
+	left: 80px;
+}
+.blg h1{
+	font-size: 18px;
+	margin-left: 80px;
+}
+.kk{
+	margin-left: 70px;
+	margin-bottom: 5px;
+}
+#fb{
+	position: relative;
+	left: 80px;
+	top: 20px;
+}
+
+.pos{
+	margin-left: 80px;
+	margin-top: 40px;
+}
+.pos1{
+	margin-left: 80px;
+	margin-top: 10px;
+}
+
+.blg ul li{
+	list-style-type: none;
+	margin-left: 80px;
+}
+
+/*section about us blog*/
 /*Footer*/
 .bg-primary{
 	background-color: #3d566e;
